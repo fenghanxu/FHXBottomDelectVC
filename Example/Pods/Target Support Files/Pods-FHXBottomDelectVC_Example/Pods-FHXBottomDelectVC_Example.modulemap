@@ -1,0 +1,6 @@
+framework module Pods_FHXBottomDelectVC_Example {
+  umbrella header "Pods-FHXBottomDelectVC_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

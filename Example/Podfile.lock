@@ -1,0 +1,19 @@
+PODS:
+  - FHXBottomDelectVC (0.1.0):
+    - SnapKit
+  - SnapKit (4.0.0)
+
+DEPENDENCIES:
+  - FHXBottomDelectVC (from `../`)
+
+EXTERNAL SOURCES:
+  FHXBottomDelectVC:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FHXBottomDelectVC: 3bc99ef3a8cf8ca6b9488907d8d04f8a1feddad1
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+
+PODFILE CHECKSUM: a33f07121d29fde98c5a179ebd3188db5e35a40a
+
+COCOAPODS: 1.4.0

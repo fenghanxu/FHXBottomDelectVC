@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FHXBottomDelectVC_Example' do
+  pod 'FHXBottomDelectVC', :path => '../'
+
+  target 'FHXBottomDelectVC_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
